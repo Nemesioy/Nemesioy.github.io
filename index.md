@@ -4,7 +4,7 @@ This is my home page! My name is Nemesio yanez and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Nemesioy.github.io.
+My GitHub page is http://github.com/Nemesioy.
 
 ### CPSC 120
 
